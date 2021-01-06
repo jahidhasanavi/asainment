@@ -1,0 +1,129 @@
+body{
+    margin: 0%;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+.jahid{
+    color: tomato;
+}
+h1{ 
+    font-size: 50px;
+}
+.name-highlight{
+    color:#ffa500;
+}
+.hasan{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.hasan img{
+    width: 100%;
+}
+.top-banner{
+    background-image: url(developer-portfolio/top-banner.png);
+}
+section{
+    height: 500px;
+    background: no-repeat;
+}
+.link-batun{
+    text-decoration: none;
+    background-image:linear-gradient( 45deg, lightsalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: #ffffff;
+    font-weight: 700px;
+}
+.About{
+    background: url("developer-portfolio/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+#hasan{
+    color: #fc069d;
+}
+.midiam{
+    color: tomato;
+}
+.mid-level{
+    text-align: center;
+    font-size: 700;
+}
+.center{
+    margin: 110px 250px;
+}
+.half-pic{
+    width: 20%;
+    float: left;
+    margin-left: 5%;
+    padding: 3%;
+}
+.half-pic img{
+    width: 100%;
+}
+.half-pic{
+    box-shadow: 10px 10px 30px gray;
+    border-radius: 10px;
+    height: 75%;
+    background-color: #fdfdfd;
+}
+.center{
+    text-align: center;
+}
+.slider-img img{
+    
+    width: 50%;
+    margin: 90px 350px;
+    
+}
+.slider-img{
+    position: relative;
+    width: 100%;
+    min-width: 400px;
+}
+.slider-img img{
+    width: 700px;
+    height: 100px;
+
+}
+.slider-img .btum{
+    position: absolute;
+    top: 50%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    background-color: #ff6347;
+    color: #f8f2e7;
+    font-size: 16px;
+    padding: 15px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.footer-img .img-bar{
+    width: 30px;
+   padding-bottom: 30px;
+  margin: 30px;
+  padding: 10px;
+  float: left;
+  
+}
+.img-bar img{
+   padding: bottom;
+   margin: 90px 500px;
+   width: 200%;
+}
+.footer-img h3{
+    font-size: 20px;
+    text-align: center;
+    color: gray;
+}.footer-img a{
+    text-decoration: none;
+    text-align: center;
+    font-size: 40px;
+    color: #cc0cd3;
+    margin: 100px 500px;
+}
